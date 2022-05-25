@@ -24,7 +24,7 @@ A mountain forest ecosystem in the Bavarian Forest National Park, Germany (Thorn
 \examples{
 data(Spider)
 \dontrun{
-Spider.out <- iNEXT.4steps(data = Spider, datatype = "abundance")
+Spider.out <- iNEXT4steps(data = Spider, datatype = "abundance")
 Spider.out
 }
 }
